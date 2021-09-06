@@ -76,7 +76,7 @@ print('*******************************************************')
 ans = True
 while ans:
     print('''
-1. Search by the phone number.
+1. Search by phone number.
 2. Search by name.
 3. Add a new phone number.
 4. Exit.\n ''')
